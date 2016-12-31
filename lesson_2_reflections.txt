@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
  yo yuu
+
+ What are the pros and cons of Gits automatic merging vs. always doing merges manually?
+
+ hi there
